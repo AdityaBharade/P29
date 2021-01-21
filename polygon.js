@@ -24,7 +24,7 @@ class Polygon{
      strokeWeight(0);
      fill("blue")
      imageMode(CENTER)
-     image(this.image,0,0,this.r,this.r);
+     image(this.image,0,0,60,60);
      pop()
     }
 
